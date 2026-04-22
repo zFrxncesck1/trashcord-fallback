@@ -1,0 +1,10 @@
+{
+  "name": "TrashCord Latest",
+  "tag_name": "latest",
+  "assets": [
+    {
+      "name": "desktop.asar",
+      "browser_download_url": "https://github.com/zFrxncesck1/TrashCord/releases/latest/download/desktop.asar"
+    }
+  ]
+}
